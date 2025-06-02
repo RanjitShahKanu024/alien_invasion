@@ -13,7 +13,7 @@ In this version of _Alien Invasion_, players control a spaceship using hand gest
 ## 🖼️ Gameplay Screenshot
 
 <p align="center">
-  <img src="figures/gameplay.PNG" alt="Gameplay Screenshot" width="600"/>
+  <img src="figures/gameplay.png" alt="Gameplay Screenshot" width="600"/>
 </p>
 
 ---
