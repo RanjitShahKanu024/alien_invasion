@@ -1,40 +1,40 @@
 # Alien Invasion: Biometric Gesture Control 🎮🖐️
 
-An innovative, gesture-controlled adaptation of the classic *Alien Invasion* game. This project reimagines the original from **"Python Crash Course" by Eric Matthes**, integrating **OpenCV** and **MediaPipe** for real-time, hands-free interaction.
+An innovative, gesture-controlled adaptation of the classic _Alien Invasion_ game. This project reimagines the original from **"Python Crash Course" by Eric Matthes**, integrating **OpenCV** and **MediaPipe** for real-time, hands-free interaction.
 
 ---
 
 ## 🚀 Project Overview
 
-In this version of *Alien Invasion*, players control a spaceship using hand gestures captured via webcam. Moving your hand steers the ship, and opening your palm triggers automatic firing. This project explores the intersection of **computer vision** and **interactive game design**.
+In this version of _Alien Invasion_, players control a spaceship using hand gestures captured via webcam. Moving your hand steers the ship, and opening your palm triggers automatic firing. This project explores the intersection of **computer vision** and **interactive game design**.
 
 ---
 
 ## 🖼️ Gameplay Screenshot
 
 <p align="center">
-  <img src="figures/gameplay.png" alt="Gameplay Screenshot" width="600"/>
+  <img src="figures/gameplay.PNG" alt="Gameplay Screenshot" width="600"/>
 </p>
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Python 3.x  
-- Pygame  
-- OpenCV  
-- MediaPipe  
+- Python 3.x
+- Pygame
+- OpenCV
+- MediaPipe
 - NumPy
 
 ---
 
 ## 🎮 Gameplay Controls
 
-| Action       | Gesture                                      |
-|--------------|-----------------------------------------------|
-| Move Ship    | Move hand left or right (reversed control)    |
-| Fire Bullet  | Open palm (fires every 4 seconds)             |
-| Stop Firing  | Close palm                                    |
+| Action      | Gesture                                    |
+| ----------- | ------------------------------------------ |
+| Move Ship   | Move hand left or right (reversed control) |
+| Fire Bullet | Open palm (fires every 4 seconds)          |
+| Stop Firing | Close palm                                 |
 
 ---
 
@@ -42,7 +42,7 @@ In this version of *Alien Invasion*, players control a spaceship using hand gest
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/alien_invasion.git
+git clone https://github.com/RanjitShahKanu024//alien_invasion.git
 cd alien_invasion
 
 # 2. Set up virtual environment
@@ -54,3 +54,4 @@ pip install -r requirements.txt
 
 # 4. Run the game
 python alien_invasion.py
+```
